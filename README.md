@@ -132,6 +132,7 @@ Swift 语言指南
 * [XCode 升级后插件失效的原理与修复办法](http://joeshang.github.io/2015/04/10/fix-xcode-upgrade-plugin-invalid/)：由一条命令引发的分析文章。[@_TongJZ](http://weibo.com/u/2068840121)
 * [feinstruktur/CoPilot](https://github.com/feinstruktur/CoPilot)：通过此插件，Xcode 可以协同编程了（采用 WebSocket 通讯）。如此强大的“黑工具”，不爱它能行吗。[演示视频](https://vimeo.com/128713880)
 * [Carthage](https://github.com/Carthage/Carthage)：新兴起的去中心化的依赖管理器，目标是用最简单的方式来管理Cocoa第三方框架。优势很明显，但是也有不足，看后面的发展吧。
+* [Swift Packge Manager](https://swift.org/package-manager/)：官方的插件管理，還在初期開發階段，越來越多套件也可以使用這個，期待未來發展。
 
 ### 4. 管理工具
 * [swiftenv](https://github.com/kylef/swiftenv)：Swift 版本管理器。类似 rvm（Ruby）, nvm（Node.js）。
